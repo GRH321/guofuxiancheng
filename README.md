@@ -19,7 +19,7 @@
 
 * code：项目前端（基于vue+element-ui）
  ![blog1](https://user-images.githubusercontent.com/101340666/166187598-c9046e5d-1497-4d37-a9cf-e91b9493489c.png)
-* server：项目服务器端（基于node，egg，mysql）
+* server：项目服务器端（基于node，egg，mysql，nunjucks）
  ![0](https://user-images.githubusercontent.com/101340666/166187572-e65da061-1873-459b-98b5-a6683ee1b043.png)
 
 
